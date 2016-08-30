@@ -16,3 +16,5 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.RTp	 diff=astextplain  "cambio"
+*.RTp	 diff=astextplain  "nuevo cambio"
+*.RTp	 diff=astextplain  "hola mundo"
